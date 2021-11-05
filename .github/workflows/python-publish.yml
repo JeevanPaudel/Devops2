@@ -3,8 +3,7 @@
 name: Run Python Test
 
 on:
-  release:
-    types: [published]
+  pull_request:
 
 jobs:
   deploy:
