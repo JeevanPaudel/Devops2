@@ -1,6 +1,6 @@
 # This workflow will Setup Python, Install Dependencies on Build server and Run our test from *test_volume_cuboid.py* file with 3 errors fails
 
-name: Run Python Tests
+name: Run Python Test
 
 on:
   release:
