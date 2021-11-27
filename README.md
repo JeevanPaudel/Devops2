@@ -21,3 +21,4 @@ The Build script does following tasks:
 
 Please let me know if you want to contribute to this project. 
 
+Testing the jenkins server.
