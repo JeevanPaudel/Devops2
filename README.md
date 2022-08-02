@@ -13,7 +13,7 @@ the folder [https://github.com/JeevanPaudel/Devops2/blob/main/.github/workflows/
 Our Build script does following tasks:
 * Sets up python on Ubuntu server
 * Install Dependencies Required for the project
-* Runs test from our unit testing python file
+* Runs test from our unit testing using python file
 
 
 **The Build Script automatically runs when we push code to the main branch**
